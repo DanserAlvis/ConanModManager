@@ -1,0 +1,12 @@
+# Ignorar archivos de configuración local
+config_ruta.cfg
+modlist.txt
+
+# Ignorar carpeta de descargas de Steam
+SteamCMD/
+
+# Ignorar Backups
+Backups/
+
+# Ignorar ejecutables generados (opcional, si solo subes el código)
+*.exe
