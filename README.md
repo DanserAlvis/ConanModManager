@@ -1,4 +1,4 @@
-# Conan Exiles Mod Manager (Game Pass & Steam)
+# Conan Exiles Mod Manager (Microsift & Game Pass)
 
 Un gestor de mods ligero, portátil y potente diseñado específicamente para la versión de **Microsoft Store / Game Pass** de *Conan Exiles*, aunque funciona perfectamente con la versión de Steam.
 
@@ -44,4 +44,5 @@ Si prefieres ejecutar el script directamente o crear tu propio `.exe`:
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto. Siéntete libre de modificarlo y mejorarlo.
+Este proyecto es de código abierto. Siéntete libre de modificarlo y mejorarlo. Da los creditos correspondientes.
+Proyecto realizado mediante IA
