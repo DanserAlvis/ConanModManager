@@ -2,7 +2,8 @@
 
 Un gestor de mods ligero, portátil y potente diseñado específicamente para la versión de **Microsoft Store / Game Pass** de *Conan Exiles*, aunque funciona perfectamente con la versión de Steam.
 
-![Screenshot](https://via.placeholder.com/800x500?text=Captura+del+Gestor+de+Mods) *(Sube una captura real de tu programa aquí)*
+![Screenshot](<img width="653" height="701" alt="image" src="https://github.com/user-attachments/assets/fce3f0d9-d215-49ad-bc05-9f628de51a40" />
+) *(Sube una captura real de tu programa aquí)*
 
 ## 🚀 Características Principales
 
